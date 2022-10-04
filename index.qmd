@@ -1,0 +1,46 @@
+---
+title: "Amelia E.H. Bridges"
+subtitle: |
+  Postdoctoral Benthic Ecologist and National Geographic Explorer
+  
+  amelia.bridges@plymouth.ac.uk or ameliabridges@hotmail.co.uk
+---
+
+# About me
+
+::: {.grid}
+
+::: {.g-col-6}
+I am a deep-sea ecologist with research interests broadly falling into two fields: spatial ecology in the deep sea, and the use of science to inform policy and marine spatial planning. I have investigated the former both at broad- and fine-scales by employing predictive modelling approaches. 
+
+I am particularly interested in how to best facilitate the use of predictive model outputs in ocean policy to ensure ecosystem-based management is based on best available data, and is possible for the deep sea despite the general paucity of data. 
+:::
+
+::: {.g-col-6}
+
+![](Images/Amelia.jpeg)
+
+:::
+:::
+
+# My PhD
+
+::: {grid}
+
+```{r , echo=FALSE,out.width='50%', out.extra='style="float:left; padding:10px"'}
+knitr::include_graphics("Images/SUCS.jpg")
+```
+
+I completed my PhD, titled '*Ecological Studies of the South Atlantic Deep Sea to Inform Sustainable Management*', at the University of Plymouth in the UK. This was in collaboration with the Centre for Environment, Fisheries and Aquaculture Science (Cefas), British Antarctic Survey (BAS) and the Norwegian Institute of Marine Research (IMR).
+
+My research focused on describing patterns in the ecology of seamounts in the South Atlantic, linking these with environmental parameters, and incorporating this baseline information into products that support science-based decision making regarding management regimes. 
+
+:::
+
+Key methodologies I employed included:
+
+- Uni- and multivariate statistical analysis of ecological data (e.g. generalised additive models, general linear mixed effects models, distance-based linear models, non-metric multidimensional scaling)
+- Habitat suitability modelling (HSM)
+- Broad-scale, non-hierarchical habitat classification
+
+![](/Users/ameliabridges/Documents/Work/Professional_website/AEHB-website/Images/Sea_sunset.jpeg)
