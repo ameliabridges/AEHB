@@ -43,7 +43,7 @@ My research focused on describing patterns in the ecology of seamounts in the So
 
 Key methodologies I employed included:
 
-- Uni- and multivariate statistical analysis of ecological data (e.g. generalised additive models, general linear mixed effects models, distance-based linear models, non-metric multidimensional scaling)
+- Uni- and multivariate statistical analysis of ecological data (e.g. generalised additive models, general linear mixed effects models, distance-based linear models, permanova)
 - Habitat suitability modelling (HSM)
 - Broad-scale, non-hierarchical habitat classification
 

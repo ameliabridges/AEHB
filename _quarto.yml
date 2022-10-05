@@ -13,6 +13,7 @@ website:
       "Professional website for Dr Amelia Bridges, postdoctoral benthic ecologist and National Geographic Explorer"
   navbar:
     logo: Images/favicon.ico
+    search: false
     foreground: "#003333"
     background: "#C1CFCE"
     right:
@@ -46,5 +47,6 @@ format:
     css: styles.css
     toc: false
 
+editor: source
 
 
