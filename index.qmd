@@ -3,7 +3,7 @@ title: "Amelia E.H. Bridges"
 subtitle: |
   Postdoctoral Benthic Ecologist and National Geographic Explorer
   
-  amelia.bridges@plymouth.ac.uk or ameliabridges@hotmail.co.uk
+  <amelia.bridges@plymouth.ac.uk> or <ameliabridges@hotmail.co.uk>
 ---
 
 # About me
@@ -19,21 +19,25 @@ I am particularly interested in how to best facilitate the use of predictive mod
 ::: {.g-col-6}
 
 ![](Images/Amelia.jpeg)
-
 :::
+
 :::
 
 # My PhD
 
-::: {grid}
+::: {.grid}
 
-```{r , echo=FALSE,out.width='50%', out.extra='style="float:left; padding:10px"'}
-knitr::include_graphics("Images/SUCS.jpg")
-```
+::: {.g-col-6}
+![](Images/SUCS.jpg)
+:::
+
+::: {.g-col-6}
 
 I completed my PhD, titled '*Ecological Studies of the South Atlantic Deep Sea to Inform Sustainable Management*', at the University of Plymouth in the UK. This was in collaboration with the Centre for Environment, Fisheries and Aquaculture Science (Cefas), British Antarctic Survey (BAS) and the Norwegian Institute of Marine Research (IMR).
 
 My research focused on describing patterns in the ecology of seamounts in the South Atlantic, linking these with environmental parameters, and incorporating this baseline information into products that support science-based decision making regarding management regimes. 
+
+:::
 
 :::
 
@@ -43,4 +47,4 @@ Key methodologies I employed included:
 - Habitat suitability modelling (HSM)
 - Broad-scale, non-hierarchical habitat classification
 
-![](/Users/ameliabridges/Documents/Work/Professional_website/AEHB-website/Images/Sea_sunset.jpeg)
+![](Images/Sea_sunset.jpeg)

@@ -3,7 +3,7 @@ title: "Media"
 subtitle: |
   Amelia E.H. Bridges, Postdoctoral Benthic Ecologist and National Geographic Explorer
   
-  amelia.bridges@plymouth.ac.uk or ameliabridges@hotmail.co.uk
+  <amelia.bridges@plymouth.ac.uk> or <ameliabridges@hotmail.co.uk>
 ---
 
 # Journal of Biogeography 

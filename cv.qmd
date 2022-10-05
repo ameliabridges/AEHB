@@ -1,14 +1,10 @@
 ---
-title: "CV"
+title: "Curriculum Vitae"
 subtitle: |
   Amelia E.H. Bridges, Postdoctoral Benthic Ecologist and National Geographic Explorer
   
-  amelia.bridges@plymouth.ac.uk or ameliabridges@hotmail.co.uk
+  <amelia.bridges@plymouth.ac.uk> or <ameliabridges@hotmail.co.uk>
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
 
 # Contact Details
 
@@ -76,10 +72,9 @@ Bell, J.B., Laptikhovsky, V., Barnes, D.K., Benedet, R., **Bridges, A.E.**, Glas
 
 ## Presentations, Posters, Training & Workshops:
 
-::: {.floatting}
-```{r , echo=FALSE,out.width='50%', out.extra='style="float:right; padding:10px"'}
-knitr::include_graphics("/Users/ameliabridges/Documents/Work/Professional_website/AEHB-website/Images/Amelia_2.jpg")
-```
+::: {grid}
+
+:::{.g-col-6}
 
 ### 2022
 
@@ -114,5 +109,13 @@ knitr::include_graphics("/Users/ameliabridges/Documents/Work/Professional_websit
 * **Poster presentation**: The 15th Marine Biological Association Conference, University of Plymouth, UK, “Vulnerable Marine Ecosystems in the South Atlantic Deep Sea”
 * **Training**: FEPS/OBIS/OTGA/SEF Training Course: Marine Species Distribution Modelling, Ostend, Belgium
 * **Training**: NERC Future of Our Seas Education & Outreach Training, Plymouth, UK
+
+:::
+
+::: {.g-col-2}
+
+![](Images/Amelia_2.JPG)
+
+:::
 
 :::

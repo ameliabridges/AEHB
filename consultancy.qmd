@@ -3,7 +3,7 @@ title: "Consultancy"
 subtitle: |
   Amelia E.H. Bridges, Postdoctoral Benthic Ecologist and National Geographic Explorer
   
-  amelia.bridges@plymouth.ac.uk or ameliabridges@hotmail.co.uk
+  <amelia.bridges@plymouth.ac.uk> or <ameliabridges@hotmail.co.uk>
 ---
 
-My consultancy experience ranges from provision of expert input to reports and literature, to specialist analysis of benthic imagery. If you would like further information on my consultancy work, please email me at amelia.bridges@plymouth.ac.uk or ameliabridges@hotmail.co.uk.  
+My consultancy experience ranges from provision of expert input to reports and literature, to specialist analysis of benthic imagery. If you would like further information on my consultancy work, please email me at <amelia.bridges@plymouth.ac.uk> or <ameliabridges@hotmail.co.uk>.  

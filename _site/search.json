@@ -1,16 +1,107 @@
 [
   {
+    "objectID": "consultancy.html",
+    "href": "consultancy.html",
+    "title": "Consultancy",
+    "section": "",
+    "text": "My consultancy experience ranges from provision of expert input to reports and literature, to specialist analysis of benthic imagery. If you would like further information on my consultancy work, please email me at amelia.bridges@plymouth.ac.uk or ameliabridges@hotmail.co.uk."
+  },
+  {
+    "objectID": "publications/nahsm.html",
+    "href": "publications/nahsm.html",
+    "title": "Performance of deep-sea habitat suitability models assessed using independent data, and implications for use in area-based management",
+    "section": "",
+    "text": "Abstract\nMarine spatial management requires accurate data on species and habitat distributions. In the deep sea, these data are lacking. Habitat suitability modelling offers a robust defensible means to fill data gaps, provided models are sufficiently reliable. We test the performance of published models of two deep-sea habitat-forming taxa at low and high resolutions (~1 km and 200 m grid-cell size), across the extended EEZs of UK and Ireland. We construct new data-rich models and compare new and old estimates of the area of habitat protected, noting changes in the protected area network since 2015. Results of independent validation suggest all published models perform worse than expected considering original cross-validation results, but model performance is still good or fair for Desmophyllum pertusum reef, with poorer performance for Pheronema carpenteri sponge models. High-resolution models using multibeam data out-perform low-resolution GEBCO-based models. Newly constructed models are good to excellent according to cross-validation. New model spatial predictions reflect published models, but with a significant reduction in predicted extent. The current marine protected area network and the European Union ban on bottom trawling below 800m protect 40% and 60% of D. pertusum reef-suitable habitat respectively, and 11% and 100% of P. carpenteri suitable habitat respectively within the model domain. We conclude high-resolution models of D. pertusum reef distribution are a useful tool in spatial management. The poorer performing P. carpenteri model indicate areas for more detailed study. Whilst low-resolution models can provide conservative estimates of percentage area-based conservation targets following the precautionary principle, high-resolution sea-floor mapping supports the development of better-performing models."
+  },
+  {
+    "objectID": "publications/tdcbluecarbon.html",
+    "href": "publications/tdcbluecarbon.html",
+    "title": "Climate Mitigation through Biological Conservation: Extensive and Valuable Blue Carbon Natural Capital in Tristan da Cunha’s Giant Marine Protected Zone",
+    "section": "",
+    "text": "Abstract\nCarbon-rich habitats can provide powerful climate mitigation if meaningful protection is put in place. We attempted to quantify this around the Tristan da Cunha archipelago Marine Protected Area. Its shallows (<1000 m depth) are varied and productive. The 5.4 km2 of kelp stores ~60 tonnes of carbon (tC) and may export ~240 tC into surrounding depths. In deep-waters we analysed seabed data collected from three research cruises, including seabed mapping, camera imagery, seabed oceanography and benthic samples from mini-Agassiz trawl. Rich biological assemblages on seamounts significantly differed to the islands and carbon storage had complex drivers. We estimate ~2.3 million tC are stored in benthic biodiversity of waters <1000 m, which includes >0.22 million tC that can be sequestered (the proportion of the carbon captured that is expected to become buried in sediment or locked away in skeletal tissue for at least 100 years). Much of this carbon is captured by cold-water coral reefs as a mixture of inorganic (largely calcium carbonate) and organic compounds. As part of its 2020 Marine Protection Strategy, these deep-water reef systems are now protected by a full bottom-trawling ban throughout Tristan da Cunha and representative no take areas on its seamounts. This small United Kingdom Overseas Territory’s reef systems represent approximately 0.8 Mt CO2 equivalent sequestered carbon; valued at >£24 Million GBP (at the UN shadow price of carbon). Annual productivity of this protected standing stock generates an estimated £3 million worth of sequestered carbon a year, making it an unrecognized and potentially major component of the economy of small island nations like Tristan da Cunha. Conservation of near intact habitats are expected to provide strong climate and biodiversity returns, which are exemplified by this MPA."
+  },
+  {
+    "objectID": "publications/ukotassemblages.html",
+    "href": "publications/ukotassemblages.html",
+    "title": "Benthic Assemblage Composition of South Atlantic Seamounts",
+    "section": "",
+    "text": "Abstract\nSeamounts and oceanic islands rise from the seafloor and provide suitable habitat for a diverse range of biological assemblages including Vulnerable Marine Ecosystems (VMEs). Whilst they have been the focus of some work globally, there has been little description of the biological and physical environments of seamounts in the South Atlantic Ocean. In this study, we characterized benthic assemblage composition from 13 seamounts and oceanic islands spanning 8–40°S within the exclusive economic zones (EEZs) of Ascension Island, Saint Helena and Tristan da Cunha. Drop camera imagery was collected between 170 and 1000 m. All fauna present in images were identified and quantified, and multivariate statistics were used to describe biological assemblages and identify their environmental drivers. Benthic communities of temperate regions (Tristan da Cunha archipelago) were shown to be distinct from those found in the tropics, with latitude and depth identified as key environmental drivers of assemblage composition. Our results are consistent with the current understanding of the biogeography of the South Atlantic, both in terms of the distinction between tropical and temperate regions, and the influence of depth and water mass structure on assemblage distribution. Faunal assemblages are similar to those observed in the North Atlantic in terms of functional groups. VMEs are present within the EEZs of all three territories and are potentially protected from some threats by large marine protected areas (MPAs). Our imagery, data and analyses provide a baseline for south Atlantic seamounts so that future monitoring can establish whether existing protected status is sufficient to conserve both unique biodiversity and considerable potential for vital ecosystem services."
+  },
+  {
+    "objectID": "publications/ukotdivgrads.html",
+    "href": "publications/ukotdivgrads.html",
+    "title": "Depth and Latitudinal Gradients of Diversity in Seamount Benthic Communities",
+    "section": "",
+    "text": "Abstract\nLatitudinal and bathymetric species diversity gradients in the deep sea have been identified, but studies have rarely considered these gradients across hard substratum habitats, such as seamount and oceanic island margins. This study aimed to identify whether the current understanding of latitudinal and bathymetric gradients in α-diversity (species richness) apply to seamount ecosystems, as well as ascertaining whether identifiable trends were present in seamount β-diversity along a bathymetric gradient. Images from 39 transects, collected between 250 and 950 m in the Exclusive Economic Zones of Saint Helena, Ascension Island and Tristan da Cunha, were used to characterise species richness. General linear models were applied to test possible environmental drivers across latitudinal and bathymetric ranges. Regression models were also employed to investigate the β-diversity gradient of species turnover with depth. Transects in temperate latitude had significantly higher species richness than those in the tropics. Surface primary productivity and substrate hardness both had significant positive effects on species richness, and a weak relationship between temperature and species richness was observed. No significant relationship between species richness and depth was detected, but there was significant species turnover with depth. Seamounts and oceanic islands do not conform to established depth–diversity relationships within the depth range studied. However, seamounts and oceanic islands in the South Atlantic do appear to follow a parabolic latitudinal diversity gradient, closely associated with higher productivity in temperate regions."
+  },
+  {
+    "objectID": "publications/bluenose.html",
+    "href": "publications/bluenose.html",
+    "title": "Life History and Ecology of Bluenose Warehou (Hyperglophe antartica, Centrolophidae) in the Southern Atlantic",
+    "section": "",
+    "text": "Abstract\nBluenose warehou (Hyperoglyphe antarctica) is a popular commercial fish in Australia and New Zealand, but its biology and ecology are very poorly known in other regions where it is found. We present here the first life history data for this species from the south Atlantic, focusing upon the exclusive economic zone (EEZ) of the United Kingdom Overseas Territory (UKOT) of Tristan da Cunha (TdC). Here, bluenose is known from several seamounts and island margins, typically occurring in waters between 200 and 1,000 m depth and is the target species of trawl and longline fishery operating since 1997. We use a suite of methods to describe important life history parameters, including length-weight and age-length relationships and size at recruitment, as well as examining commercial longline survey data to uncover habitat preferences of bluenose. This work has formed an important part of the United Kingdom government’s Blue Belt Program in TdC. It has underpinned the development of the first stock assessment for this species in the Atlantic, as well as a range of improved conservation measures for some of the more vulnerable species that occur in these areas, including seabirds and cold-water corals."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Ecology of Pheronema carpenteri aggregations in the Porcupine Seabight\nGlobal habitat classification for the deep-sea benthos\n\n\n\n\nHabitat suitability modelling (HSM) of VMEs (Demsophyllum pertusum reef and P. carpenteri)in the North Atlantic\nHSM of D. pertusum in the South Atlantic\nEcology of seamounts at Ascension Island, Saint Helena and Tristan da Cunha\nMapping of blue carbon-rich taxa (seagrass and kelp) in southeast Cornwall, UK\nRegional review of the South Atlantic\nGuidelines of the identification of VMEs from imagery\n\n\n\n\n\n\n\nAnnotation of megafaunal communities from deep-sea imagery in the North and South Atlantic"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Amelia E.H. Bridges",
     "section": "",
-    "text": "My PhD\n\n\n\n\n\n\nI completed my PhD, titled ‘Ecological Studies of the South Atlantic Deep Sea to Inform Sustainable Management’, at the University of Plymouth in the UK. This was in collaboration with the Centre for Environment, Fisheries and Aquaculture Science (Cefas), British Antarctic Survey (BAS) and the Norwegian Institute of Marine Research (IMR).\nMy research focused on describing patterns in the ecology of seamounts in the South Atlantic, linking these with environmental parameters, and incorporating this baseline information into products that support science-based decision making regarding management regimes.\n\nKey methodologies I employed included:\n\nUni- and multivariate statistical analysis of ecological data (e.g. generalised additive models, general linear mixed effects models, distance-based linear models, non-metric multidimensional scaling)\nHabitat suitability modelling (HSM)\nBroad-scale, non-hierarchical habitat classification"
+    "text": "My PhD\n\n\n\n\n\nI completed my PhD, titled ‘Ecological Studies of the South Atlantic Deep Sea to Inform Sustainable Management’, at the University of Plymouth in the UK. This was in collaboration with the Centre for Environment, Fisheries and Aquaculture Science (Cefas), British Antarctic Survey (BAS) and the Norwegian Institute of Marine Research (IMR).\nMy research focused on describing patterns in the ecology of seamounts in the South Atlantic, linking these with environmental parameters, and incorporating this baseline information into products that support science-based decision making regarding management regimes.\n\n\nKey methodologies I employed included:\n\nUni- and multivariate statistical analysis of ecological data (e.g. generalised additive models, general linear mixed effects models, distance-based linear models, non-metric multidimensional scaling)\nHabitat suitability modelling (HSM)\nBroad-scale, non-hierarchical habitat classification"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "media.html",
+    "href": "media.html",
+    "title": "Media",
     "section": "",
-    "text": "1 + 1\n\n[1] 2"
+    "text": "Tristan da Cunha Marine Protection Zone\nUniversity helps UK Overseas Territory become sanctuary for wildlife\nNew Atlantic marine sanctuary will be one of world’s largest\nUK Overseas Territory Becomes One of the World’s Biggest Sanctuaries for Wildlife"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Kerry L. Howell, Amelia E.H. Bridges, Kyran P. Graves, Louise Allcock, Giulia la Bianca, Carolina Ventura-Costa, Sophie E. Donaldson, Anna-Leena Downie, Thomas Furey, Fergal McGrath, Rebecca E. Ross\n\n\n\n\n\n\nMay 23, 2022\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\nAmelia E.H. Bridges, David K.A. Barnes, James B. Bell, Rebecca E. Ross & Kerry L. Howell\n\n\n\n\n\n\nMar 25, 2022\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\nDavid K.A. Barnes, James B. Bell, Amelia E. Bridges, Louise Ireland, Kerry L. Howell, Stephanie M. Martin, Chester J. Sands, Alejandra Mora Soto, Terri Souster, Gareth Flint & Simon A. Morley\n\n\n\n\n\n\nDec 16, 2021\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\nAmelia E.H. Bridges, David K.A. Barnes, James B. Bell, Rebecca E. Ross & Kerry L. Howell\n\n\n\n\n\n\nOct 22, 2021\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\nJames B. Bell, Vladimir Laptikhovsky, David K.A. Barnes, Ramon Benedet, Amelia E.H. Bridges, James Glass, Warren Glass, Rodney Green, Simon A. Morley, Simon Robertson, Georgia R. Robson, Harry Stanton, Freja Azzopardi, Clive N. Trueman, Oliver Yates & Martin A. Collins\n\n\n\n\n\n\nFeb 2, 2021\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Email: amelia.bridges@plymouth.ac.uk or ameliabridges@hotmail.co.uk\nTel: (+44)7926 091 345"
+  },
+  {
+    "objectID": "cv.html#key-skills",
+    "href": "cv.html#key-skills",
+    "title": "Curriculum Vitae",
+    "section": "Key Skills:",
+    "text": "Key Skills:\n\nBroad- and fine-scale habitat mapping\nHabitat suitability modelling\nImage and video analysis using BIIGLE 2.0 and other annotation softwares\nAdvanced statistical analysis skills using R and Primer\nHigh-level ability to manipulate spatial data using GIS softwares (including ESRI ArcMap)\nExperience working on a Linux-based High Performance Computing system to undertake spatial and statistical analysis"
+  },
+  {
+    "objectID": "cv.html#publications",
+    "href": "cv.html#publications",
+    "title": "Curriculum Vitae",
+    "section": "Publications:",
+    "text": "Publications:\nHowell, K.L., Bridges, A.E., Graves, K.P., Allcock, L., la Bianca, G., Ventura-Costa, C., Donaldson, S.E., Downie, A., Furey, T., McGrath, F., Ross, R.E. 2022. Performance of deep-sea habitat suitability models assessed using independent data, and implications for use in area-based management. Marine Environmental Progress Series. DOI: 10.3354/meps14098\nBridges, A.E., Barnes, D.K.A., Bell, J.B., Ross, R.E., Howell, K.L. 2022. Depth and latitudinal gradients of diversity in seamount benthic communities. Journal of Biogeography, 49(5), 904-915 DOI: 10.1111/jbi.14355\nBridges, A.E., Barnes, D.K.A., Bell, J.B., Ross, R.E., Howell, K.L. 2021. Benthic community composition of South Atlantic seamounts. Frontiers in Marine Science, 8, pp.1530. DOI: 10.3389/fmars.2021.660648\nBarnes, D.K.A., Bell, J.N., Bridges, A.E., Ireland, L., Howell, K.L., Martin, S.M., Sands, C.J., Mora Soto, A., Souster, T., Flint, G., Morley, S. 2021. Climate mitigation through biological conservation; extensive and valuable blue carbon natural capital in Tristan da Cunha’s giant Marine Protected Area. Biology, 10, 1339. DOI: 10.3390/biology10121339\nBell, J.B., Laptikhovsky, V., Barnes, D.K., Benedet, R., Bridges, A.E., Glass, J., Glass, W., Green, R., Morley, S.A., Robertson, S. and Robson, G.R., 2021. Life history and ecology of bluenose warehou (Hyperoglyphe antarctica, Centrolophidae) in the southern Atlantic. Frontiers in Marine Science, 8, pp.41. DOI: 10.3389/fmars.2021.610172"
+  },
+  {
+    "objectID": "cv.html#funding-awards",
+    "href": "cv.html#funding-awards",
+    "title": "Curriculum Vitae",
+    "section": "Funding & Awards:",
+    "text": "Funding & Awards:\n\nEnhancing Research Culture Bridging Award (£11,151)\nAwardee of the National Geographic Early Career Research Grant 2018 ($6,500)\nMarine Biological Association Student Travel Grant 2018 (£100)\nBritish Ecological Society Training and Travel Grant 2018 (£500)\nAwardee of the National Geographic Support for Women Grant 2019 ($2,400)\nMarine Biological Association Prize for Outstanding Performance in a Marine Biology Undergraduate Course 2017"
+  },
+  {
+    "objectID": "cv.html#presentations-posters-training-workshops",
+    "href": "cv.html#presentations-posters-training-workshops",
+    "title": "Curriculum Vitae",
+    "section": "Presentations, Posters, Training & Workshops:",
+    "text": "Presentations, Posters, Training & Workshops:\n\n\n\n2022\n\nOral presentation: Challenger 150: The Challenger Society Conference 2022, Natural History Museum, London, UK, “Review of the Central & South Atlantic Deep-Sea Benthos: Science, Policy & Management”\n\n\n\n2021\n\nInvited expert: online: South East Atlantic Fisheries Organisation Annual Scientific Committee Meeting “Filling the data gaps: transferring models from data-rich to data-poor deep-sea areas to support spatial management”\nInvited panelist: online: Deep Ocean Observing Strategies for a Predicted Ocean\nInvited presentation: online: Challenger 150 Predicted Ocean Satellite Event: Developing deep-sea ecosystem models, “Habitat Suitability Modelling”\nOral presentation: online: The 16th Deep-Sea Biology Symposium, Brest, France, “Filling the data gaps: transferring models from data-rich to data-poor deep-sea areas to support spatial management”\n\n\n\n2020\n\nOral presentation: online: eDSBS 2020 Conference, “Depth and latitudinal gradients of diversity in seamount benthic communities of the South Atlantic”\nOral presentation: online: One Ocean Hub Mini Symposium, “Current work in the South Atlantic”\nPublic talk: St Helena Nature Conservation Group Talk, St Helena, “Mapping the deep: conserving Earth’s largest ecosystem”\n\n\n\n2019\n\nPublic talk: ‘Pints, Pies & PhDs’, Plymouth, UK, “Mapping the Deep… there be dragons?”\nTraining: Marxan & MarZone Training, University of Victoria, British Colombia, Canada\nOral presentation: Towards a Tristan da Cunha Marine Protection Strategy Meeting, Cambridge, UK, “Habitat suitability mapping & modelling of Vulnerable Marine Ecosystems around Tristan da Cunha”\nOral presentation: Cefas Student Conference, Exeter, UK, “Defining benthic assemblages of conservation interest in South Atlantic UK Overseas Territories”\nOral presentation: Plymouth Marine Science & Education Foundation Conference, Plymouth, UK, “Defining benthic assemblages of conservation interest (VMEs) in South Atlantic UK Overseas Territories”\nOral presentation: Marine Biology & Ecology Research Centre Seminar, Plymouth, UK “Using predictive habitat modelling to assess the extent and distribution of vulnerable marine ecosystems in the South Atlantic deep-sea”\n\n\n\n2018\n\nInvited seminar: JNCC Seminar Series, Peterborough, UK, “Defining benthic assemblages of conservation interest (VMEs) in South Atlantic UK Overseas Territories”\nOral presentation: The 15th Deep-Sea Biology Symposium, Monterey Bay, USA, “Defining benthic assemblages of conservation interest (VMEs) in South Atlantic UK Overseas Territories”\nPoster presentation: The 15th Marine Biological Association Conference, University of Plymouth, UK, “Vulnerable Marine Ecosystems in the South Atlantic Deep Sea”\nTraining: FEPS/OBIS/OTGA/SEF Training Course: Marine Species Distribution Modelling, Ostend, Belgium\nTraining: NERC Future of Our Seas Education & Outreach Training, Plymouth, UK"
   }
 ]

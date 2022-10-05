@@ -3,32 +3,42 @@ title: "Projects"
 subtitle: |
   Amelia E.H. Bridges, Postdoctoral Benthic Ecologist and National Geographic Explorer
   
-  amelia.bridges@plymouth.ac.uk or ameliabridges@hotmail.co.uk
+  <amelia.bridges@plymouth.ac.uk> or <ameliabridges@hotmail.co.uk>
 ---
 
-::: {.floatting}
-```{r , echo=FALSE,out.width='50%', out.extra='style="float:right; padding:10px"'}
-knitr::include_graphics("/Users/ameliabridges/Documents/Work/Professional_website/AEHB-website/Images/StHelena.jpeg")
-```
+:::{.grid}
 
+:::{.g-col-6}
 I have been lucky enough to contribute to numerous projects focusing on a range of habitats. These include:
 
 * Submission of new Vulnerable Marine Ecosystem (VME) habitat type to the International Council for the Exploration of the Seas
-* Rapid wreck assessment near Tristan da Cunha
 * Development of the Tristan da Cunha Marine Protection Zone Management Plan
+* Rapid wreck assessment near Tristan da Cunha
+:::
+
+:::{.g-col-6}
+![](Images/StHelena.jpeg)
+:::
+
+:::
+
 * Ecology of *Pheronema carpenteri* aggregations in the Porcupine Seabight
 * Global habitat classification for the deep-sea benthos
+
+:::{.grid}
+
+:::{.g-col-6}
 * Habitat suitability modelling (HSM) of VMEs (*Demsophyllum pertusum* reef and *P. carpenteri*)in the North Atlantic 
-
-```{r , echo=FALSE,out.width='50%', out.extra='style="float:right; padding:10px"'}
-knitr::include_graphics("/Users/ameliabridges/Documents/Work/Professional_website/AEHB-website/Images/StHelena_diving.jpeg")
-```
-
 * HSM of *D. pertusum* in the South Atlantic
 * Ecology of seamounts at Ascension Island, Saint Helena and Tristan da Cunha
 * Mapping of blue carbon-rich taxa (seagrass and kelp) in southeast Cornwall, UK
 * Regional review of the South Atlantic 
 * Guidelines of the identification of VMEs from imagery
-* Annotation of megafunal communities from deep-sea imagery in the North and South Atlantic
+:::
+
+:::{.g-col-6}
+![](Images/StHelena_diving.jpeg)
+:::
 
 :::
+* Annotation of megafaunal communities from deep-sea imagery in the North and South Atlantic

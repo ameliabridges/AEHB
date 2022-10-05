@@ -2,8 +2,16 @@ project:
   type: website
 
 website:
-  title: "AEHB"
+  title: "Amelia E. H. Bridges"
+  site-url: https://www.ameliabridges.com
+  favicon: Images/favicon.ico
+  open-graph: true
+  twitter-card: 
+    creator: "@Amelia_Bridges"
   navbar:
+    logo: Images/favicon.ico
+    foreground: "#003333"
+    background: "#C1CFCE"
     right:
       - text: "Home"
         href: index.qmd
@@ -17,18 +25,21 @@ website:
         href: cv.qmd
       - text: "Media"
         href: media.qmd
-      - icon: fa fa-github
+      - icon: github
         href: https://github.com/ameliabridges
-      - icon: fa fa-twitter
+      - icon: twitter
         href: https://twitter.com/Amelia_Bridges
+      - icon: flower2
+        href: https://orcid.org/my-orcid?orcid=0000-0002-1422-9637
 
 format:
   html:
     theme: 
-      light: litera
-      dark: solar
+      dark: [solar, CustomStyle_dark.scss]
+      light: [solar, CustomStyle_light.scss]
+    linestretch: 1.7
     css: styles.css
-    toc: true
+    toc: false
 
 
 
