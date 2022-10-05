@@ -27,11 +27,11 @@ I am particularly interested in how to best facilitate the use of predictive mod
 
 ::: {.grid}
 
-::: {.g-col-6}
+::: {.g-col-5}
 ![](Images/SUCS.jpg)
 :::
 
-::: {.g-col-6}
+::: {.g-col-7}
 
 I completed my PhD, titled '*Ecological Studies of the South Atlantic Deep Sea to Inform Sustainable Management*', at the University of Plymouth in the UK. This was in collaboration with the Centre for Environment, Fisheries and Aquaculture Science (Cefas), British Antarctic Survey (BAS) and the Norwegian Institute of Marine Research (IMR).
 

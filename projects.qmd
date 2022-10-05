@@ -1,9 +1,5 @@
 ---
 title: "Projects"
-subtitle: |
-  Amelia E.H. Bridges, Postdoctoral Benthic Ecologist and National Geographic Explorer
-  
-  <amelia.bridges@plymouth.ac.uk> or <ameliabridges@hotmail.co.uk>
 ---
 
 :::{.grid}
@@ -13,7 +9,6 @@ I have been lucky enough to contribute to numerous projects focusing on a range 
 
 * Submission of new Vulnerable Marine Ecosystem (VME) habitat type to the International Council for the Exploration of the Seas
 * Development of the Tristan da Cunha Marine Protection Zone Management Plan
-* Rapid wreck assessment near Tristan da Cunha
 :::
 
 :::{.g-col-6}
@@ -22,6 +17,7 @@ I have been lucky enough to contribute to numerous projects focusing on a range 
 
 :::
 
+* Rapid wreck assessment near Tristan da Cunha
 * Ecology of *Pheronema carpenteri* aggregations in the Porcupine Seabight
 * Global habitat classification for the deep-sea benthos
 
@@ -29,11 +25,9 @@ I have been lucky enough to contribute to numerous projects focusing on a range 
 
 :::{.g-col-6}
 * Habitat suitability modelling (HSM) of VMEs (*Demsophyllum pertusum* reef and *P. carpenteri*)in the North Atlantic 
-* HSM of *D. pertusum* in the South Atlantic
+* HSM of *D. pertusum* and *Solenosmilia variabilis*  in the South Atlantic
 * Ecology of seamounts at Ascension Island, Saint Helena and Tristan da Cunha
 * Mapping of blue carbon-rich taxa (seagrass and kelp) in southeast Cornwall, UK
-* Regional review of the South Atlantic 
-* Guidelines of the identification of VMEs from imagery
 :::
 
 :::{.g-col-6}
@@ -41,4 +35,7 @@ I have been lucky enough to contribute to numerous projects focusing on a range 
 :::
 
 :::
+
+* Regional review of the Central and South Atlantic 
+* Guidelines of the identification of VMEs from imagery
 * Annotation of megafaunal communities from deep-sea imagery in the North and South Atlantic

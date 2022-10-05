@@ -8,6 +8,9 @@ website:
   open-graph: true
   twitter-card: 
     creator: "@Amelia_Bridges"
+    image: Images/Sea_sunset.ico
+    description: 
+      "Professional website for Dr Amelia Bridges, postdoctoral benthic ecologist and National Geographic Explorer"
   navbar:
     logo: Images/favicon.ico
     foreground: "#003333"
@@ -31,6 +34,8 @@ website:
         href: https://twitter.com/Amelia_Bridges
       - icon: flower2
         href: https://orcid.org/my-orcid?orcid=0000-0002-1422-9637
+  # body-footer: | 
+  #   Testing this option <https://example.com>
 
 format:
   html:

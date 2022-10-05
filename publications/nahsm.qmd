@@ -1,8 +1,8 @@
 ---
-title: "Performance of deep-sea habitat suitability models assessed using independent data, and implications for use in area-based management"
+title: "Performance of Deep-Sea Habitat Suitability Models Assessed Using Independent Data, and Implications for Use in Area-Based Management"
 description: |
   Kerry L. Howell, Amelia E.H. Bridges, Kyran P. Graves, Louise Allcock, Giulia la Bianca, Carolina Ventura-Costa, Sophie E. Donaldson, Anna-Leena Downie, Thomas Furey, Fergal McGrath, Rebecca E. Ross
-date: 2022-05-23
+date: 2022-08-25
 preview: NA_HSM_preview.jpeg
 ---
 
