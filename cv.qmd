@@ -50,6 +50,8 @@ subtitle: |
 
 ## Publications:
 
+Graves, K.P., **Bridges, A.E.**, Dabrowski, T., Furey, T., Lyons, K., Howell, K.L. 2022. Oceanographic variability drives the distribution but not the density of the aggregation forming deep-sea sponge *Pheronema carpenteri*. *Deep Sea Research Part I: Oceanographic Research Papers*. [DOI:10.1016/j.dsr.2022.103917](https://www.sciencedirect.com/science/article/pii/S0967063722002291?via%3Dihub#fig1)
+
 Howell, K.L., **Bridges, A.E.**, Graves, K.P., Allcock, L., la Bianca, G., Ventura-Costa, C., Donaldson, S.E., Downie, A., Furey, T., McGrath, F., Ross, R.E. 2022. Performance of deep-sea habitat suitability models assessed using independent data, and implications for use in area-based management. *Marine Environmental Progress Series*. [DOI: 10.3354/meps14098](https://www.int-res.com/abstracts/meps/v695/p33-51/)
 
 **Bridges, A.E.**, Barnes, D.K.A., Bell, J.B., Ross, R.E., Howell, K.L. 2022. Depth and latitudinal gradients of diversity in seamount benthic communities. *Journal of Biogeography, 49(5)*, 904-915 [DOI: 10.1111/jbi.14355](https://doi.org/10.1111/jbi.14355)
