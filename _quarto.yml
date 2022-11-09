@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Amelia E. H. Bridges"
+  title: "Dr Amelia E. H. Bridges"
   site-url: https://www.ameliabridges.com
   favicon: Images/favicon.ico
   open-graph: true
