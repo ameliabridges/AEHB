@@ -39,3 +39,4 @@ I have been lucky enough to contribute to numerous projects focusing on a range 
 * Regional review of the Central and South Atlantic 
 * Guidelines of the identification of VMEs from imagery
 * Annotation of megafaunal communities from deep-sea imagery in the North and South Atlantic
+* The use of artificial intelligence, through object detection and identification, to assist in annotation of marine imagery data
