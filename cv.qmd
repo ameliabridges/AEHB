@@ -49,8 +49,9 @@ subtitle: |
 * Habitat suitability modelling
 * Image and video analysis using BIIGLE 2.0 and other annotation softwares
 * Advanced statistical analysis skills using R and Primer
-* High-level ability to manipulate spatial data using GIS softwares (including ESRI ArcMap)
+* High-level ability to manipulate spatial data using GIS softwares 
 * Experience working on a Linux-based High Performance Computing system to undertake spatial and statistical analysis
+* Application of artificial intelligence to marine imagery for object detection and identification 
 
 ## Publications:
 
@@ -85,7 +86,7 @@ Bell, J.B., Laptikhovsky, V., Barnes, D.K., Benedet, R., **Bridges, A.E.**, Glas
 :::{.g-col-6}
 
 ### 2023
-
+* **Invited seminar**: University of Newcastle, UK, “Mapping the Deep: Using Ecology to Support Sustainable Management"
 * **Invited keynote**: PlyMSEF Conference 2023, Plymouth, UK, “Mapping the Deep: Using Ecology to Support Sustainable Management"
 
 ### 2022
