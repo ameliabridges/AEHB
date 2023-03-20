@@ -55,7 +55,11 @@ subtitle: |
 
 ## Publications:
 
+McQuaid, K.A., **Bridges, A.E.H.**, Howell, K.L., [et al]. *In press*. Broad-scale benthic habitat classification of the South Atlantic. *Progress in Oceanography*.
+
 **Bridges, A.E.**, Howell, K.L., [et al]. *In press*. Review of the Central and South Atlantic Shelf and Deep-Sea Benthos: Science, Policy and Management. *Oceanography and Marine Biology: An Annual Review*.
+
+Howell, K.L., **Bridges, A.E.H.**, Davies, J., Parimbelli, A., Piechaud, N. 2023. An Ecologist’s Guide to BIIGLE. *University of Plymouth*. 46pp. [DOI: 10.5281/zenodo.7728927](https://zenodo.org/record/7728927#.ZBgWU-zP1WN)
 
 Graves, K.P., **Bridges, A.E.**, Dabrowski, T., Furey, T., Lyons, K., Howell, K.L. 2022. Oceanographic variability drives the distribution but not the density of the aggregation forming deep-sea sponge *Pheronema carpenteri*. *Deep Sea Research Part I: Oceanographic Research Papers*. [DOI:10.1016/j.dsr.2022.103917](https://www.sciencedirect.com/science/article/pii/S0967063722002291?via%3Dihub#fig1)
 
