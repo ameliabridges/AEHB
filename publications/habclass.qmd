@@ -1,0 +1,15 @@
+---
+title: "Broad-scale benthic habitat classification of the South Atlantic"
+description: |
+  Kirsty A. McQuaid, Amelia E.H. Bridges, Kerry L. Howell, Tiago B.R. Gandra, Vitor de Souzad, Jock C. Currie, Oliver T. Hogg, Tabitha R.R. Pearman, James B. Bell, Lara J. Atkinson, Diane Baum, Jarbas Bonetti, Alvar Carranza, Omar Defeo, Thomas Furey, Maria A. Gasalla, Neil Golding, Shannon L. Hampton, Sebastián Horta, Daniel O.B. Jones, Amanda T. Lombard, Eleonora Manca, Yamandú Marin, Stephanie Martin, Pål Mortensen, Cecilia Passadore, Nils Piechaud, Kerry J. Sink & Andrew Yool
+date: 2023-3-17
+preview: habclass_preview.jpg
+---
+
+**Link to manuscript: **[McQuaid *et al.* (2023)](https://www.sciencedirect.com/science/article/pii/S0079661123000599?casa_token=M6eHc2UIC9EAAAAA:6ctZGGPtenqZhEamlEpHk3xpKL5aeqb9cHngVZ9LzC3Qzpl9RNZ8TyiPIiROqeMHIA7L7B_tNnM)
+
+![](habclass_preview.jpg)
+
+# Abstract 
+
+Marine Spatial Planning (MSP) has become a priority for many states wanting to develop national blue economy plans and meet international obligations in response to the increasing cumulative impacts of human activities and climate change. In areas beyond national jurisdiction (ABNJ), MSP is proposed as part of a package of solutions for multi-sectoral management at the ocean basin scale. To facilitate planning, maps showing the spatial distribution of marine biological diversity are required. In areas lacking data, like the South Atlantic, environmental proxies can be used to predict these distributions. We undertook broad-scale benthic habitat classification of the South Atlantic, employing two top-down approaches spanning from national waters to ABNJ. The first was non-hierarchical and clustered groups of environmental variables prior to combination; the second was hierarchical and clustered Principal Components of environmental variables. Areas of agreement between the two approaches were identified and results compared with existing national and global classifications and published biodiversity patterns. We highlight several habitat classes we can be cautiously confident represent variation in biological diversity, such as topographic features, frontal systems and some abyssal basins. We also identify critical gaps in our knowledge of regional biogeography and advocate for collaborative effort to compile benthic species records and promote further exploration of the region to address these gaps. These insights into the distribution of habitats have the potential to support sustainable use and conservation of biodiversity beyond national jurisdiction, enable transboundary and ocean basin scale management, and empower nations to make progress towards achieving Sustainable Development Goals.
